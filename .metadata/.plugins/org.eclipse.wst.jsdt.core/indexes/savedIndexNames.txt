@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\大二下\实验\Web应用实验\web应用课程设计\OnlineBookstore\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1526006683.index
+2860846226.index
+3522545602.index
+822058692.index
+1266363526.index
+1059127641.index
